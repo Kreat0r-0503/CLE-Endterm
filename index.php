@@ -62,11 +62,11 @@
                 <div class="footer">
                     <div class="inner_footer">
                         <ul class="navigation">
-                            <a href="index.html"><li>Home</li></a>
+                            <a href="index.php"><li>Home</li></a>
                             <a href="https://codepen.io/kreat0r-0503/pen/KKMMeYV"><li>CSS</li></a>
                             <a href="https://canvas-basic.herokuapp.com/"><li>Canvas</li></a>
                             <a href="https://svg-maceda.herokuapp.com/"><li>SVG</li></a>
-                            <a href="author.html"><li>About the Author</li></a>
+                            <a href="author.php"><li>About the Author</li></a>
                         </ul>
                     </div>
                 </div>
