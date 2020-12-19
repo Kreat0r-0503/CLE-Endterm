@@ -1,0 +1,35 @@
+body{
+    background-color: #0B0C10;
+    height: 100%;
+    overflow: hidden;
+  }
+
+.auth{
+    text-align:center;
+    width: 600px;
+    height: 300px;
+    margin-top: 0;
+    margin-left: 35%;
+}
+.author, .job, p {
+    font-family: font-family: 'Poppins', sans-serif;
+    color: #FFF;
+}
+
+.author{
+    font-size: 100px;
+}
+.job{
+    font-size: 35px;
+    color: #66FCF1;
+}
+p{
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+svg{
+    width: 400px;
+    height: 400px;
+    transform: translate(170%, 10%);
+}
